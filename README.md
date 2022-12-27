@@ -4,7 +4,7 @@
 The CodeExecutor is a utility for executing arbitrary Python code in a restricted environment. It allows you to specify a list of allowed libraries or functions that can be imported and used in the code being executed, and provides an easy way to execute code snippets or files in a controlled and isolated environment.
 
 Installation
-To install the CodeExecutor utility, you can clone this repository and use pip to install the package:
+To install the CodeExecutor utility, you can use pip to install the package:
 
 ```
 pip install CodeExecutor

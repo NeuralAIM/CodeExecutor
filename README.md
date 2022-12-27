@@ -7,9 +7,7 @@ Installation
 To install the CodeExecutor utility, you can clone this repository and use pip to install the package:
 
 ```
-git clone https://github.com/<username>/code-executor.git
-cd code-executor
-pip install .
+pip install CodeExecutor
 ```
 ## Usage
 Here's an example of how you might use the CodeExecutor class:

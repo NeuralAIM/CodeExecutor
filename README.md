@@ -12,7 +12,7 @@ pip install CodeExecutor
 ## Usage
 Here's an example of how you might use the CodeExecutor class:
 ```
-from code_executor import CodeExecutor
+from CodeExecutor import CodeExecutor
 
 # First, create an instance of the CodeExecutor class
 executor = CodeExecutor()
